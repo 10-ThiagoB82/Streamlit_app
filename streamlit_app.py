@@ -12,5 +12,5 @@ streamlit.text('🥑🍞 Avocado Toast')
 streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
 
 
-streamlit.text(' I love Karina and Bia you is perereca')
+streamlit.text(' I love Karina and Bia you are perereca')
 
